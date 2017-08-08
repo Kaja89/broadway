@@ -6,7 +6,7 @@ body {
 }
 
 #menu {
-background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+background-image: url("../images/the-flatiron-building.png");
 background-repeat: no-repeat;
 background-size: cover;
 background-color: dimgray;
@@ -14,7 +14,6 @@ background-color: dimgray;
 
 h1 {
   font-size: 70px;
-  font-weight: bold;
   color: white;
 }
 
@@ -35,7 +34,7 @@ h4 a, #footer a {
 
 #special {
   color: white;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   background-color: dimgray;
 }
 
